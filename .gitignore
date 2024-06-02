@@ -1,0 +1,8 @@
+
+# ignore datasets
+data/
+
+# ignore pycache
+__pycache__/
+**/__pycache__/
+ 
